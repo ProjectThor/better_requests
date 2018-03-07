@@ -11,5 +11,5 @@ setup(name='better_requests',
       install_requires=['requests'],
       setup_requires=['pytest-runner'],
       tests_require=['pytest', 'pytest-dotenv', 'doubles', 'args_catcher'],
-      dependency_links=['https://github.com/ProjectThor/args_catcher/master#egg=args_catcher-0.1.0'],
+      dependency_links=['https://github.com/ProjectThor/args_catcher/tarball/v0.1.0#egg=args_catcher-0.1.0'],
       zip_safe=False)
