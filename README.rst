@@ -39,3 +39,9 @@ Development
 To run all tests use::
 
     $ python setup.py test
+
+
+Copyright & License
+-------------------
+
+Copyright (c) 2018 siroop AG, Franco Sebregondi. This software is released under the `MIT License <https://opensource.org/licenses/MIT>`_. 
